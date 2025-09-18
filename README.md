@@ -21,7 +21,7 @@ An end-to-end mini lab project to predict asthma risk from real survey responses
 >
 > Notebook (Colab): https://colab.research.google.com/drive/1VxENFQY3UaJ82u80CpLvVs3R-nvcxksF?usp=sharing
 >
-> Report: `DMML Lab Final Project Report.pdf` / `DMML Lab Final Project Report.txt`
+> Report: `DMML Lab Final Project Report.pdf`
 >
 > Supervisor: Mr. Md. Abdullah Al Kafi, Lecturer, Dept. of CSE, Daffodil International University
 
