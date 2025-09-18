@@ -1,0 +1,51 @@
+Gender,Age,Living area,Pollution,aware of asthma?,asthma patient?,allergy?,coughing or throat problem ?,breathing problem? ,smoke or tobacco user? ,any other health issues?
+Male,21-24,Rural,Low,"Yes, I'm well aware",Yes,Yes,Sometimes,Sometimes,"Yes, a family member smokes",No
+Male,21-24,Urban,Medium,"Yes, I'm well aware",Yes,No,In Winter Season,Yes,No one in the family smokes,No
+Female,21-24,Urban,High,Somewhat aware,No,No,Never,Never,No one in the family smokes,No
+Male,21-24,Rural,No air pollution,I don't Know anything,No,Yes,Sometimes,Sometimes,"Yes, a family member smokes",No
+Female,17-20,Urban,Medium,I've heard of it,No,No,In Winter Season,Never,No one in the family smokes,No
+Male,21-24,Rural,No air pollution,I've heard of it,No,Yes,In Winter Season,Yes,"Yes, a family member smokes",No
+Male,21-24,Rural,Medium,Somewhat aware,No,No,Never,Yes,No one in the family smokes,No
+Male,21-24,Urban,Medium,"Yes, I'm well aware",No,Yes,Sometimes,Never,"Yes, a family member smokes",No
+Male,21-24,Urban,High,"Yes, I'm well aware",No,Yes,Never,Never,"Yes, I smoke",No
+Male,21-24,Urban,Medium,"Yes, I'm well aware",No,No,Never,Never,"Yes, I smoke",No
+Male,21-24,Urban,Medium,"Yes, I'm well aware",No,Yes,Never,Never,No one in the family smokes,No
+Male,21-24,Rural,High,I don't Know anything,No,No,Sometimes,Never,No one in the family smokes,No
+Male,21-24,Urban,High,"Yes, I'm well aware",No,Yes,Sometimes,Yes,"Yes, I smoke",Yes
+Male,21-24,Urban,Medium,I don't Know anything,No,Yes,Never,Never,No one in the family smokes,No
+Male,21-24,Rural,Medium,"Yes, I'm well aware",No,No,Sometimes,Sometimes,No one in the family smokes,No
+Male,21-24,Urban,High,"Yes, I'm well aware",No,Yes,Never,Never,No one in the family smokes,No
+Male,21-24,Urban,Medium,Somewhat aware,No,Yes,Sometimes,Sometimes,No one in the family smokes,No
+Male,21-24,Urban,High,I've heard of it,No,Yes,Sometimes,Never,No one in the family smokes,No
+Male,21-24,Urban,Medium,Somewhat aware,No,No,In Winter Season,Never,No one in the family smokes,No
+Male,21-24,Urban,High,"Yes, I'm well aware",No,Yes,Sometimes,Yes,"Yes, I smoke",No
+Male,21-24,Urban,Medium,I've heard of it,No,No,Sometimes,Never,No one in the family smokes,No
+Female,21-24,Rural,No air pollution,Somewhat aware,No,Yes,In Winter Season,Yes,No one in the family smokes,Yes
+Male,21-24,Urban,High,Somewhat aware,No,Yes,Frequently,Sometimes,No one in the family smokes,No
+Male,21-24,Urban,No air pollution,I don't Know anything,No,No,Sometimes,Never,"Yes, I smoke",No
+Male,21-24,Rural,Medium,I've heard of it,No,No,Never,Never,No one in the family smokes,No
+Female,21-24,Urban,High,Somewhat aware,Yes,Yes,Frequently,Sometimes,"Yes, a family member smokes",No
+Male,21-24,Urban,High,Somewhat aware,No,No,Frequently,Sometimes,"Yes, I smoke",No
+Male,21-24,Urban,Medium,Somewhat aware,No,Yes,Always,Yes,No one in the family smokes,No
+Male,21-24,Urban,High,Somewhat aware,Yes,Yes,Sometimes,Yes,No one in the family smokes,Yes
+Male,21-24,Urban,Low,I don't Know anything,No,No,Never,Never,"Yes, I smoke",No
+Male,21-24,Urban,High,Somewhat aware,No,Yes,Sometimes,Sometimes,No one in the family smokes,No
+Male,21-24,Urban,Medium,"Yes, I'm well aware",No,Yes,Sometimes,Sometimes,No one in the family smokes,No
+Male,21-24,Rural,Medium,"Yes, I'm well aware",No,No,Sometimes,Sometimes,"Yes, a family member smokes",No
+Male,21-24,Urban,High,Somewhat aware,No,No,Sometimes,Never,No one in the family smokes,No
+Male,21-24,Urban,High,I've heard of it,No,Yes,Frequently,Never,No one in the family smokes,No
+Female,21-24,Urban,Medium,"Yes, I'm well aware",No,No,In Winter Season,Sometimes,"Yes, a family member smokes",No
+Female,21-24,Urban,Medium,I've heard of it,No,No,Sometimes,Never,No one in the family smokes,No
+Male,21-24,Rural,Medium,"Yes, I'm well aware",No,No,Always,Never,No one in the family smokes,No
+Male,21-24,Rural,Low,I don't Know anything,No,No,Sometimes,Never,No one in the family smokes,No
+Male,25-28,Urban,Medium,I've heard of it,No,No,Never,Never,No one in the family smokes,No
+Female,21-24,Rural,High,"Yes, I'm well aware",No,No,Sometimes,Never,No one in the family smokes,No
+Male,17-20,Urban,Medium,I don't Know anything,No,Yes,Never,Never,No one in the family smokes,No
+Male,21-24,Urban,High,I've heard of it,No,Yes,In Winter Season,Never,"Yes, a family member smokes",No
+Male,21-24,Urban,Medium,"Yes, I'm well aware",No,Yes,Never,Never,No one in the family smokes,No
+Female,21-24,Urban,Medium,I've heard of it,No,No,Never,Never,No one in the family smokes,No
+Male,21-24,Rural,Low,I don't Know anything,No,No,Sometimes,Never,No one in the family smokes,No
+Male,21-24,Urban,Low,I don't Know anything,No,No,Never,Never,"Yes, I smoke",No
+Male,21-24,Urban,High,I don't Know anything,No,No,Never,Sometimes,No one in the family smokes,No
+Male,21-24,Rural,High,"Yes, I'm well aware",No,No,Never,Never,No one in the family smokes,No
+Male,21-24,Urban,Medium,"Yes, I'm well aware",No,Yes,Never,Never,No one in the family smokes,No
