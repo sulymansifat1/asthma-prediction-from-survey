@@ -96,7 +96,6 @@ This repository is intentionally simple and notebook-centric:
 .
 ├─ Asthma Data Collection Survey.csv     # Survey data (raw headers)
 ├─ DMML Lab Final Project Report.pdf     # Final write-up (PDF)
-├─ DMML Lab Final Project Report.txt     # Final write-up (text)
 └─ Prediction of Asthma.ipynb            # Main analysis & modeling notebook
 ```
 
